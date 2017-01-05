@@ -21,6 +21,30 @@ conforme apropriado ao processo analisado:
 [...]"
 
 A empresa SAP, detentora de um dos produtos ERP mais famosos
-do mercado, declara:
+do mercado, declara (http://www.sap.com/solution/what-is-erp.html):
 
 "What is the simplest ERP definition? Think about all the core processes needed to run a company: finance, HR, manufacturing, supply chain, services, procurement, and others. At its most basic level, ERP integrates these processes into a single system. But new ERP systems are anything but basic."
+
+Na segunda estrofe o autor da discursiva descreve como 
+os ERPs surgiram, destacando que foi pela identificação de processos
+comuns entre diferentes empresas que eram automatizados de forma individual,
+frisando ainda os desperdícios de recursos causado por esse gerenciamento
+individual. A estrofe segue declarando que os ERPs são sistemas desenvolvidos
+por diferentes organizacoes, que disponibilizam softwaers ou componentes prontos
+para atender empresas de diferentes seguimentos.Ela termina citando os 
+benefícios da utilização do ERP, como qualidade e agilidade na automação
+do processo de negócio.
+
+Essas afirmações encontram respaldo no próprio sítio da SAP, empresa líder no 
+seguimento de ERPs, quando declara as capacidades funcionais do seu produto
+ERP. "Stay competitive by relying on our proven ERP software to streamline your processes across procurement, manufacturing, service, sales, finance, and HR"
+(http://www.sap.com/product/enterprise-management/erp.product-capabilities.html)
+Ainda no mesmo sítio, são citados as capacidades funcionais
+proporcionadas pelo ERP por meio dos seus diferentes módulos.
+"Core Human Resources
+Get support for recruiting, onboarding, administration, professional development, and promotion[...]
+Core Finance
+Streamline and automate your financial operations while ensuring regulatory compliance[...]"
+(http://www.sap.com/product/enterprise-management/erp.product-capabilities.html)
+
+
