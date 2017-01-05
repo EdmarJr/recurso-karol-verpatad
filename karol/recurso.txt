@@ -1,0 +1,26 @@
+	O presente recurso tem o objetivo de humildemente solicitar a majoração da nota.
+Realiza-se o pedido, pois, conforme será esclarecido e devidamente fundamentado,
+a prova discursiva não contém qualquer erro relacionado ao domínio técnico. No entanto, 5 pontos foram descontados do candidato.
+	Além disso, há de ser levado em conta, o limite de 30 linhas
+que o candidato enfrentou, o que justifica
+	
+	A primeira estrofe inicia-se pela definição do gerenciamento de processos
+de negócio e o seu objetivo. Todo o seu texto está de acordo com BPM CBOK 
+Versão 3.0.
+
+"Gerenciamento de processos de negócio [...] é uma disciplina
+gerencial que integra[...] tecnologias para analisar,
+desenhar, implementar, gerenciar desempenho, transformar e estabelecer
+a governança de projetos" ABPMP_CBOK_GUIDE ( V3.0) PÁGINA 40
+
+"A documentação da análise é util para vários propósitos [...]
+Essa documentação pode incluir qualquer um dos seguintes itens, 
+conforme apropriado ao processo analisado: 
+[...]
+-Redundâncias no processo que poderiam ser eliminadas e economias esperadas
+[...]"
+
+A empresa SAP, detentora de um dos produtos ERP mais famosos
+do mercado, declara:
+
+"What is the simplest ERP definition? Think about all the core processes needed to run a company: finance, HR, manufacturing, supply chain, services, procurement, and others. At its most basic level, ERP integrates these processes into a single system. But new ERP systems are anything but basic."
